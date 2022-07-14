@@ -27,11 +27,10 @@ function Header() {
         <HeaderOption Icon={BusinessCenterIcon} title="Jobs" />
         <HeaderOption Icon={ChatIcon} title="Messaging" />
         <HeaderOption Icon={NotificationsIcon} title="Notifications" />
-        <Avatar src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-        {/* <HeaderOption
-          avatar="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+        <HeaderOption
+          avatar="https://randomuser.me/api/portraits/men/41.jpg"
           title="me"
-        /> */}
+        />
       </div>
     </div>
   );
