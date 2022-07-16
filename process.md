@@ -15,3 +15,7 @@ Register and add firebase hosting to the app
             Set-ExecutionPolicy RemoteSigned
         to unset
             Set-ExecutionPolicy Restricted
+TO connect firebase database to our app
+    create firebase.js file
+    add firebase config object to firebase.js file
+    run command: npm add firebase
